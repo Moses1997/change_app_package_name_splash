@@ -1,7 +1,7 @@
 name: change_app_package_name_splash
 description: A new Flutter package.
 version: 0.0.1
-homepage: https://github.com/parth58/Social-SignIn-Buttons
+homepage: https://github.com/Moses1997/change_app_package_name_splash
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
